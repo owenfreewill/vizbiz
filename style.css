@@ -470,9 +470,19 @@ p {
 	padding: 0 0 5px 0;
 }
 p.introimg {
-    color: #FFF;
+    color: #262626;
     font-size: 6em;
     margin: 0;
     line-height: 1em;
 }
 
+
+
+
+
+
+
+
+#secondslidecss {
+    color:#ffffff
+}
